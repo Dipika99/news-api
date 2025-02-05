@@ -1,0 +1,19 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+
+# .env file containing API keys and secrets
+.env
+
+# IDE or editor-specific files (optional, adjust if needed)
+.vscode/
+.idea/
+
+# Operating system-specific files (optional)
+.DS_Store
+Thumbs.db
